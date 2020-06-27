@@ -8,3 +8,6 @@ This project was created following the instructions of the assignments for North
 <p align="center">
   <img src="https://github.com/h0rban/Centipede/blob/master/centipede.gif" alt="Game Demo" height="400"/>
 </p>
+
+## Partner
+[Krish](https://github.com/krisharma)
