@@ -10,4 +10,7 @@ By instructor policy, the source code can only be made public by request.
 
 **Demo**
 
-![Game demo](https://github.com/h0rban/Centipede/blob/master/centipede.gif)
+<p align="center">
+  <img src="https://github.com/h0rban/Centipede/blob/master/centipede.gif" alt="Game Demo" height="400"/>
+</p>
+
